@@ -16,7 +16,7 @@ Federal Ministry of Transport and Digital Infrastructure: "Strukturale Medienbil
 
 Protestant Academy of Tutzing, "Strukturale Medienbildung und experimentelle Praxis", Prof. Johanna Haberer, Tutzing, 2017-11-16.
 
-Senior seminar: "Einführung in den Datenjournalismus: Datenselbstschutz für Journalisten". Spring semester 2018, Catholic University of Eichstätt-Ingolstadt.
+Seminar: "Einführung in den Datenjournalismus: Datenselbstschutz für Journalisten". Spring semester 2018, Catholic University of Eichstätt-Ingolstadt.
 
 Mainconference of Protestant School system: "Strukturale Medienbildung und experimentelle Praxis". Oberkirchenrat Detlev Bierbaum, Nürnberg, 2018-05-07.
 
