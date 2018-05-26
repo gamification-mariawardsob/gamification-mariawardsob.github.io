@@ -20,7 +20,7 @@ Senior seminar: "Einführung in den Datenjournalismus: Datenselbstschutz für Jo
 
 Mainconference of Protestant School system: "Strukturale Medienbildung und experimentelle Praxis". Oberkirchenrat Detlev Bierbaum, Nürnberg, 2018-05-07.
 
-German Chancellery: "Gamification und Game-based-learning". Parliamentary State Secretary at the Chancellery for Digitalization Dorothee Bär, Berlin, 2018-06-25.
+German Chancellery: "Gamification und Game-based-learning". State Minister for Digitization Dorothee Bär, Berlin, 2018-06-25.
 
 
 ## Opinion
